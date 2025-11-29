@@ -20,6 +20,7 @@ Karena saya menggunakan laragon maka saya akan menuntukkan cara menjalannkan pro
 1. Buka laragon
 2. Jalankan Apache
 3. Klik kanan pada laragon -> www -> pilih folder dimana kamu menyimpan kode tersebut -> klik folder tersebut.
-  
+
+   ![2025-11-29 12-05-18](https://github.com/user-attachments/assets/a7a6b698-0b6b-41fb-9c55-3d11201145da)
 
 
