@@ -1,9 +1,9 @@
-# Nama   : Alfian Iskandar Zulkarnain
-# NIM   : H1024034
-# Shift Awal : B
-# Shift Akhir : D
+## Nama   : Alfian Iskandar Zulkarnain
+## NIM   : H1024034
+## Shift Awal : B
+## Shift Akhir : D
 
-## Penjelasan
+# Penjelasan
 Ini adalah simulasi web sederhana sekali untuk melatih Pokemon, yaitu Ninetales. Pada simulasi ini user bisa melatih pokemon untuk meningkatkan stats(level dan hp), serta melihat riwayat dari latihan yang telah dilakukan.
 
 Simulasi web ini menggunakan PHP Native dengan konsep OOP. Di sini, data disimpan sementara menggunakan session. 
@@ -15,7 +15,7 @@ Terdapat 5 file:
 4. train.php, berisi form untuk latihan, saat dikirimkan data diubah oleh logika di ninetales.php
 5. history.php, menampilkan tabel riwayat latihan yang tersimpan dalam memori objek.
 
-## Cara Menjalankan Program
+# Cara Menjalankan Program
 Karena saya menggunakan laragon maka saya akan menuntukkan cara menjalannkan program dengan laragon:
 1. Buka laragon
 2. Jalankan Apache
